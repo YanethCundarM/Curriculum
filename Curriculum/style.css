@@ -1,0 +1,223 @@
+body{
+    margin: 0;
+    padding: 0;
+    margin: auto;
+    width: 80%;
+    
+    
+    background-color:#ffffff;
+}
+    
+
+h4{
+    font-family: Arial;
+    letter-spacing: 2px;
+    color: rgb(67, 63, 63);
+}
+
+
+h5{
+    font-family: arial;
+    font-size: 12px;
+    color: rgb(56, 55, 55);
+
+    
+}
+
+.banner{
+    height: 200px;
+    background: linear-gradient(rgba(22, 50, 95, 0.5), rgba(107, 143, 233, 0.5)),
+    url(./imagenes/imagen_banner2.jpg);
+    background-size: none;
+    
+    background-position: 50%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0 2px 2px rgb(68, 143, 190), 0 4px 8px rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+    
+}
+
+.photo{
+    background-image: url(./imagenes/foto-yaneth.jpeg);
+    width: 150px;
+    height: 160px;
+    background-position: 50%;
+    background-size: 120%;
+    border: 5px solid rgb(221, 221, 222);
+    box-shadow: 0 6px 8px rgb(68, 143, 190), 0 6px 20px rgba(0, 0, 0, 0.19);
+    border-radius: 50%;
+}
+.cargo{
+    padding: 20px;
+    padding-bottom: 10px;
+    color: white;
+}   
+.cargo h1, h3{
+    margin: 0px;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 13px !important; 
+    padding-bottom: px;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 12px !important;  
+
+}
+
+.principal{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: start;
+    
+    
+}
+.card_datos1{
+   
+   background-color:rgb(251, 251, 251);
+   padding: 30px;
+   
+   flex: 1 1 20%;
+   
+   
+   
+}
+.card_perfil{
+    width:350px;
+    
+    
+}
+.perfil{
+    text-align: justify;
+   
+}
+
+.card_contact{
+    display: flex;
+     flex-direction: row;
+     justify-content: start;
+     align-items: center;
+     
+ }
+ .icono a{
+     font-size: 13px;
+     background-color: rgb(221, 215, 215);
+     padding: 10px;
+     border-radius: 50px;
+ }
+ .texto{
+     font-family: arial;
+     padding-left:12px ;   
+ 
+ }
+ .study{
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+.study p{
+    font-family: Arial;
+    font-size: 13px; 
+    margin-top:0; 
+    margin-bottom:0;
+    
+}
+.card_datos2{
+    flex: 1 1 60%;
+    background-color:rgb(221, 215, 215);
+    padding: 30px;
+    
+}
+.habilidades p{
+    margin: 0;
+}
+
+.experencia_laboral{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-bottom: 10px;
+    margin: 0px;
+
+}
+.experencia_laboral p{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 12px;
+    margin: 0px;
+
+}
+.experencia_laboral ul{
+    margin: 2px;
+    padding:9px;
+
+}
+.experencia_laboral li{
+    font-family: Arial, Helvetica, sans-serif;    
+    font-size: 12px;
+    margin: 0px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
